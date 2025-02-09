@@ -16,6 +16,9 @@ This is a GUI application that quickly converts MP4 video files into MP3 audio f
 
 
 ## ⚙️ How to Use
+   **Language** 
+   - _en for english
+   - _vn for vietnam
 
 1️⃣ **Download**  
    Download the `convert.exe` from the releases or build it from the source.
