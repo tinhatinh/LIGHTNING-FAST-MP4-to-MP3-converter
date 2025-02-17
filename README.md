@@ -43,7 +43,7 @@ This is a GUI application that quickly converts MP4 video files into MP3 audio f
 Feel free to fork the repository and create a new branch:
 
 ```bash
-git checkout -b feature-xyz
+git checkout -b feature-xyzz
 ```
 
 Commit your changes and submit a pull request.
